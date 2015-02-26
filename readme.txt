@@ -1,4 +1,3 @@
-GIT TEST:
 
 1. this is a test git file.
 
